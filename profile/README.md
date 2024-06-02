@@ -27,7 +27,7 @@ The PAES project is developed by a dedicated team of students from Gebze Technic
     Arife Yurtseven
         Role: Determination and Notification of Patient’s Needs, Exercise, Hardware
     İbrahim Barış Uysal
-        Role: Determination and Notification of Patient’s Needs, Exercise, Hardware
+        Role: Determination and Notification of Patient’s Needs, Exercise, Hardware, Desktop App
     Berke Yılmaz
         Role: Determination and Notification of Patient’s Needs, Exercise, Desktop App
     Selin Duru Derindağ
@@ -42,7 +42,7 @@ The PAES project is developed by a dedicated team of students from Gebze Technic
 Repository Structure
 
 Each module has its own repository with detailed README files explaining the setup, usage, and contribution guidelines:
-
+    
     PAES-SOFTWARE-VIDEOSTREAMING
     PAES-SOFTWARE-SHAPEDETECTION
     PAES-HARDWARE-AIRMOUSE
